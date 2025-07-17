@@ -1,14 +1,11 @@
-# 📝 AI Resume Screener
+# 📝 AI CVScreen SaaS App
 
-An AI-powered app that ranks resumes based on a job description.
+This app helps companies and HRs quickly find the best candidate among multiple resumes.
 
-## 🚀 Features
-- Upload job description (text or PDF)
-- Upload multiple resumes (PDF)
-- Get similarity scores & top-matching candidate
+## ✅ Features
+- Upload Job Description (Text or PDF)
+- Upload multiple resumes
+- AI ranks candidates based on job-resume similarity
 
-## 🧠 Tech Stack
+## 🚀 Tech Stack
 - Python, Gradio, Sentence Transformers, PyMuPDF
-
-## 🌐 Live Demo
-👉 [HuggingFace Space](https://huggingface.co/spaces/Shruthi-S-098/Resume-screener)
